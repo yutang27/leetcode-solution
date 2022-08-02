@@ -1,7 +1,8 @@
-# leetcode-solution-csharp
+# leetcode-solution
 
-[![language](https://img.shields.io/badge/language-C%23-brightgreen.svg)
+![language](https://img.shields.io/badge/language-C%23-brightgreen.svg)
 
-**Compiler Environment: VS2022 + .NET6.0**  
+**Compiler Environment: VS2022**  
+**C# Version: .NET6.0**
 
-This my leetcode solution archive.
+This a leetcode problems solution archive.
