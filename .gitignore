@@ -1,0 +1,7 @@
+# visual studio files
+.vs/
+obj/
+bin/
+
+# temp files
+temp/
